@@ -1,6 +1,7 @@
 # mslearn-python-oo
 
 Contains the exercise for a Python Object Oriented Programing (OOP) LEARN module.
+* Includes Rock-Paper-Scissors Game.
 
 These exercises are currently used in:
 
